@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Oktonsai
+- 👀 I’m interested in much things
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on a Python project
+- 📫 How to reach me oktonsai@gmail.com
+- 😄 Pronouns: he
